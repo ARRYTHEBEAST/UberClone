@@ -1,0 +1,1 @@
+This is the repository which is an NextJs, React.js, Tailwindcss, Google Map, Stripe implementation of the Uber app.
